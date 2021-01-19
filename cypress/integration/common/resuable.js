@@ -2,7 +2,7 @@
  * This file helps to group the common functionalities used in the application
  */
 
-import { Then } from "cypress-cucumber-preprocessor/steps";
+import { When } from "cypress-cucumber-preprocessor/steps";
 
 /**
  * Accepts the user inputs and timer commences
