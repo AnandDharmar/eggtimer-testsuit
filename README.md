@@ -25,3 +25,9 @@ A pipeline for the tests are available on GitHubActions and on Azure DevOpss
 
 - Using Command lines
   ![extensionscreen](./artifacts/images/commandline_results.png)
+  
+- Using Cypress-Dashboard
+  ![extensionscreen](./artifacts/images/cypress-dashboard.png)
+
+- GitHubActions
+  ![extensionscreen](./artifacts/images/githubAction.png)
