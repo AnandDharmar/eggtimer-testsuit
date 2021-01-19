@@ -1,0 +1,24 @@
+{
+  "name": "eggtimer-test ",
+  "version": "1.0.0",
+  "description": "This project is to automate e.ggtimer.com and verify the Coundown timer funtionality",
+  "scripts": {
+    "test": "cypress run --spec \"**/*.feature\" --headless",
+    "record": "cypress run --spec \"**/*.feature\" --headless --record --key b7f301bb-02fc-4609-a3fd-937827b6f32a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnandDharmar/eggTimer.git"
+  },
+  "author": "Anand Dharmar",
+  "license": "MIT",
+  "homepage": "https://github.com/AnandDharmar/eggTimer.gi#readme",
+  "dependencies": {
+    "cypress": "^6.2.1",
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "@shelex/cypress-allure-plugin": "2.0.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
