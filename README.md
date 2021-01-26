@@ -31,6 +31,8 @@ https://dev.azure.com/anandAutomation/eggtimer/_build?definitionId=1
   ![extensionscreen](./artifacts/images/commandline_results.png)
   
 - Using Cypress-Dashboard
+Recorded Run: https://dashboard.cypress.io/projects/ud6tod/runs/
+
   ![extensionscreen](./artifacts/images/cypress-dashboard.png)
 
 - GitHubActions
