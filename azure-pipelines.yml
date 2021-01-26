@@ -20,12 +20,14 @@ steps:
     npm test
   displayName: 'npm install and test'
   condition: 
+
+- task: CopyFiles@2
+  inputs:
+    Contents: '**//eggtimer.feature.mp4'
+    TargetFolder: '$(build.artifactstagingdirectory)'
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'eggtimer.feature.video.mp4'
     publishLocation: 'Container'
-- task: CopyFiles@2
-  inputs:
-    Contents: '**//eggtimer.feature.mp4'
-    TargetFolder: '$(build.artifactstagingdirectory)'
