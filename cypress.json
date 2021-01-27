@@ -1,6 +1,6 @@
 {
   "ignoreTestFiles": "*.js",
-  "testFiles": "**/*.{feature,features}",
+  "testFiles": "**/*.feature",
   "chromeWebSecurity": false,
   "projectId": "ud6tod"
 }

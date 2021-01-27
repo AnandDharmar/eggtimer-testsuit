@@ -25,7 +25,7 @@ Then(
  * This function checks the countdown happens every second and the time decreases. It will assert for each second
  */
 Then(
-  /^Remaining time should decreases by one-sec from (\d+)$/,
+  'Remaining time should decreases by one-sec from {int}',
   function (value) {
     const seconds = value + 2;
     const now = Date.now();
