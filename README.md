@@ -1,6 +1,6 @@
 # To Get Started
 
-## Pre-requisites
+## Pre-requisite
 
 - NodeJS installed globally in the system. https://nodejs.org/en/download/
 - Chrome or Firefox browsers installed
