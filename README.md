@@ -17,7 +17,7 @@ npm install
 npm test
 ```
 
-## CI pipeline
+##  CI pipeline
 
 A pipeline for the tests are available on GitHubActions and on Azure DevOpss
 
