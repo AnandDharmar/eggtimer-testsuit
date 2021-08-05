@@ -27,7 +27,7 @@ https://dev.azure.com/anandAutomation/eggtimer/_build?definitionId=1
 
 ## Reports
 
-- Using Command lines
+- Using Command line
   ![extensionscreen](./artifacts/images/commandline_results.png)
   
 - Using Cypress-Dashboard
