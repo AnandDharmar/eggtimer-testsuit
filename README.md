@@ -8,7 +8,7 @@
 
 ## Setup Scripts
 
-- Clone the repository into a folder
+- Clone the repository into a folders
 - Go inside the folder and run following command from terminal/command prompt
 - this should install all the dependencies from package.json in node_modules folder. (Need to have Admin rights)
 
