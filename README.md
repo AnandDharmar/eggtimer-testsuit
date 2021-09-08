@@ -21,7 +21,7 @@ npm test
 
 A pipeline for the tests are available on GitHubActions and on Azure DevOpss
 
-## Azure Devops Pipeline
+## Azure Devops Pipelin
 
 https://dev.azure.com/anandAutomation/eggtimer/_build?definitionId=1
 
