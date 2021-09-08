@@ -3,7 +3,7 @@
 ## Pre-requisite
 
 - NodeJS installed globally in the system. https://nodejs.org/en/download/
-- Chrome or Firefox browsers installed
+- Chrome or Firefox browsers installeed
 - Text Editor(Optional) installed-->Sublime/Visual Studio Code/IntelliJ IDEA Ultimate
 
 ## Setup Scripts
