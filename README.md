@@ -14,7 +14,7 @@
 
 ```
 npm install
-npm test
+npm test 
 ```
 
 ##  CI pipeline
@@ -39,3 +39,4 @@ Recorded Run: https://dashboard.cypress.io/projects/ud6tod/runs/
   ![extensionscreen](./artifacts/images/githubAction.png)
   
   
+Sample
